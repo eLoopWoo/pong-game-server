@@ -124,6 +124,7 @@ void Server::ClientHandlerThread(int ID) //ID = the index in the SOCKET Connecti
 	return;
 }
 
+
 float Server::getP1_Y() {
 	return P1_y;
 }
